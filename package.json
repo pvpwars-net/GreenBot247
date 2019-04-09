@@ -1,0 +1,16 @@
+{
+  "name": "Green's Helper",
+  "version": "1.0.0",
+  "description": "A very good bot you will never ever get!",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "profanities": "^2.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "f"
+  },
+  "author": "Kaisen Ni",
+  "license": "none"
+}
