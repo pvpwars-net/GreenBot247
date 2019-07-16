@@ -1,0 +1,11 @@
+{
+  "victory": "HA I AM OP",
+  "loss": "oof, 𝕃𝕌ℂ𝕂",
+  "victoryTriggers": [
+    "VICTORY"
+  ],
+  "lossTriggers": [
+    "GAME OVER",
+    "GAME END"
+  ]
+}
